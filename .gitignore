@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+.idea/
+*.iml
+
+venv/
+
+*.h5
+
+image_blur/
+image_org/
+predict_images/
+
