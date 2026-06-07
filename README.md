@@ -110,9 +110,13 @@ Additional project documentation can be found in:
 
 ---
 
-## Author
+## Authors
 
 Uriya Avdar
+Ilay Gam Zu Letova
+
+Project Supervisor:
+Dr. Yossi Danan
 
 B.Sc. Electrical and Electronics Engineering
 
