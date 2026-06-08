@@ -113,7 +113,7 @@ Additional project documentation can be found in:
 ## Authors
 
 Uriya Avdar
-Ilay Gam Zu Letova
+& Ilay Gam Zu Letova
 
 Project Supervisor:
 Dr. Yossi Danan
